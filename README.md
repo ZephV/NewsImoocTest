@@ -1,11 +1,15 @@
 # NewsImoocTest
-来自慕课网的一个项目练习(传送门)[http://www.imooc.com/learn/406]
-**内容有哪些知识点**
+
+来自慕课网的一个项目练习[地址](http://www.imooc.com/learn/406)
+
+It is a exercise from IMOOC.[URL](http://www.imooc.com/learn/406)
+
+## **知识点（topic）**
 - AsyncTask
-- 多线程加载
+- Thread
 - HttpURLConnection
 - BaseAdapter
 - LruCache
 - OnScrollListener
-- JosnObject解析
+- JosnObject
 - ListView
